@@ -43,6 +43,7 @@ Researcher and software engineer focused on applying AI/ML to problems in bioinf
 
 ### Undergraduate Work
 - 📁 [Undergraduate Repositories — Full List](https://github.com/stars/sindarian/lists/undergraduate)
+  - Projects developed during B.S. coursework
 
 ---
 
