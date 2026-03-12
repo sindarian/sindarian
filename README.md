@@ -37,7 +37,7 @@ Researcher and software engineer focused on applying AI/ML to problems in bioinf
 
 ### Graduate Work
 - 📁 [Graduate Repositories — Full List](https://github.com/stars/sindarian/lists/graduate)
-  - [GILoop](https://github.com/sindarian/GILoop) *(thesis)*
+  - [LoopBench](https://github.com/sindarian/LoopBench) *(thesis)*
   - [Market Trends Classification](https://github.com/sindarian/market-trend-classification)
   - Projects developed during M.S. coursework
 
